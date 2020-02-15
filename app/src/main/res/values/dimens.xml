@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_20sp">20sp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="imv_height">240dp</dimen>
+    <dimen name="imv_width">320dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhonePay</string>
+    <string name="submit">Submit</string>
+    <string name="guess_the_logo_name">Guess the logo name</string>
+</resources>
